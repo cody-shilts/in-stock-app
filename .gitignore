@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# Vendored dependencies (use `go mod download` instead of committing these)
+vendor/
+
+# Build artifacts
+*.exe
+*.out
+
+# OS files
+.DS_Store
